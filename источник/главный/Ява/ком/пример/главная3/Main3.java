@@ -17,5 +17,4 @@ public class Main3 {
         System.out.println("Ваш баланс: " + total + " руб.");
     }
 
-
 }
